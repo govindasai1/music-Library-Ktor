@@ -1,0 +1,15 @@
+package com.example.utils.endpoints
+
+const val ADMIN_BASE = "/Admin"
+const val USER_BASE = "/User"
+const val REGISTER = "/Register"
+const val LOGIN = "/Login"
+const val ADMIN_ADDSONG = "/AddSong"
+const val ADMIN_REMOVESONG = "/RemoveSong"
+const val PLAY_SONG = "/PlaySong"
+const val FILTER = "/FilterByArtist"
+const val PLAYLIST = "/PlayList"
+const val PLAYLIST_SONG = "/PlayListSong"
+const val REMOVE_SONG = "/RemoveSong"
+const val REMOVE_PLAYLIST = "/RemovePlayList"
+const val REMOVE_ACCOUNT = "/RemoveAccount"
